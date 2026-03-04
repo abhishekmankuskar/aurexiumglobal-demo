@@ -10,7 +10,7 @@ const contactInfo = [
   {
     icon: Phone,
     title: 'Call Us',
-    lines: ['+91 98765 43210', '+91 87654 32109'],
+    lines: ['+91 7057721155'],
   },
   {
     icon: Mail,
