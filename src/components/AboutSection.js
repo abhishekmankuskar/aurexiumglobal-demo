@@ -63,16 +63,12 @@ export default function AboutSection() {
             <Separator className="w-16 h-1 bg-forest rounded-full mb-6" />
 
             <p className="text-base text-gray-600 font-body leading-relaxed mb-6 tracking-wide">
-              Aurexium Global was born from a simple belief: the earth provides everything we
-              need when we treat it with respect. Founded by farmers and trade visionaries who saw the
-              potential of organic agriculture on the global stage, we set out to bridge local farms
-              with international markets.
+             Aurexium Global is a leading exporter of high-quality animal feed, serving livestock, poultry, aquaculture, and pet industries across international markets. We specialize in providing nutritionally balanced feed and feed ingredients that meet global standards for safety, quality, and performance.
+Our products include cattle and dairy feed, poultry starter and grower feed, fish and shrimp feed, as well as premium pet food. 
             </p>
             <p className="text-base text-gray-600 font-body leading-relaxed mb-8 tracking-wide">
-              Today, we partner with over 500 farmers across the region, exporting
-              premium organic products to 15+ countries. From our
-              nutrient-rich fertilizers to farm-fresh dairy, every product tells the story
-              of sustainable agriculture meeting global trade.
+             Each product is carefully formulated using trusted raw materials to ensure maximum growth, health, and productivity for animals.
+With streamlined logistics, cold chain management, and custom packaging solutions, Aurexium Global ensures every shipment reaches our clients in perfect condition. We are committed to building long-term relationships by delivering consistent quality, reliability, and international-grade products.
             </p>
 
             <div className="grid grid-cols-2 gap-6">
