@@ -466,8 +466,6 @@ export const domains = [
       }
     ]
   },
- 
-  
   {
     id: "dairy",
     name: "Dairy Products",
@@ -479,7 +477,7 @@ export const domains = [
       {
         id: "da-1",
         name: "A2 Desi Cow Ghee",
-        image: "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800&q=80",
+        image: "https://media.istockphoto.com/id/1413268652/photo/ghee-butter-oil.webp?a=1&b=1&s=612x612&w=0&k=20&c=qp-uWOt9koD_794F8rJp3yw6LBXbTeMnI5AC0ll3ic0=",
         description: "Traditional bilona-method ghee from A2 cow milk. Golden, aromatic, and packed with healthy fats and fat-soluble vitamins.",
         details: [
           "Made from A2 Desi cow milk",
